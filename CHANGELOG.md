@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-16)
+## Unreleased (2024-06-17)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`6adfd9a`](https://github.com/stdlib-js/stdlib/commit/6adfd9a5b8df1771ac41681f1167c480e8d89c1d) - **docs:** fix missing asterisk _(by Athan Reines)_
 -   [`54413a6`](https://github.com/stdlib-js/stdlib/commit/54413a6c2b5649e4adccbf752656c6ab2f14b170) - **docs:** fix return value _(by Athan Reines)_
 -   [`d9ef2aa`](https://github.com/stdlib-js/stdlib/commit/d9ef2aa6d8d5c22025ad552a21780b07462f3079) - **feat:** add `array/base/cuany` [(#2375)](https://github.com/stdlib-js/stdlib/pull/2375) _(by Aditya Sapra, Athan Reines)_
 
