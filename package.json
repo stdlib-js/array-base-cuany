@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-cuany",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Cumulatively test whether at least one element in a provided array is truthy.",
   "license": "Apache-2.0",
   "author": {
