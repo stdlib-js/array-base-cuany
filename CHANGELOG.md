@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-06-24)
+
+<section class="features">
+
+### Features
+
+-   [`c41435f`](https://github.com/stdlib-js/stdlib/commit/c41435fa51e75a6329d78b8e801590476ece06af) - add boolean dtype support to `array/base/cuany` [(#2446)](https://github.com/stdlib-js/stdlib/pull/2446)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`c41435f`](https://github.com/stdlib-js/stdlib/commit/c41435fa51e75a6329d78b8e801590476ece06af) - **feat:** add boolean dtype support to `array/base/cuany` [(#2446)](https://github.com/stdlib-js/stdlib/pull/2446) _(by Jaysukh Makvana)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Jaysukh Makvana
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.0.1">
 
 ## 0.0.1 (2024-06-19)
