@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-24)
+## Unreleased (2024-07-07)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`a78f7d1`](https://github.com/stdlib-js/stdlib/commit/a78f7d1b859b6b1d7b0bc0ee4daf76789e3e0910) - **style:** add missing spaces _(by Philipp Burckhardt)_
 -   [`c41435f`](https://github.com/stdlib-js/stdlib/commit/c41435fa51e75a6329d78b8e801590476ece06af) - **feat:** add boolean dtype support to `array/base/cuany` [(#2446)](https://github.com/stdlib-js/stdlib/pull/2446) _(by Jaysukh Makvana)_
 
 </details>
@@ -34,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Jaysukh Makvana
+-   Philipp Burckhardt
 
 </section>
 
