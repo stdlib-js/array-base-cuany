@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-24)
+## Unreleased (2025-12-06)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`b8beb65`](https://github.com/stdlib-js/stdlib/commit/b8beb6541969d801b04d8937a8a10d5aa184b796) - **bench:** refactor to use string interpolation in `array/base/cuany` [(#8853)](https://github.com/stdlib-js/stdlib/pull/8853) _(by Aman Singh)_
 -   [`28a6474`](https://github.com/stdlib-js/stdlib/commit/28a64749d12c05ecd840af6f5a4e14a343c6efc0) - **docs:** fix example code _(by Philipp Burckhardt)_
 -   [`5cb36ef`](https://github.com/stdlib-js/stdlib/commit/5cb36ef4c6f8158585ac88867a8dec21ed3fa372) - **docs:** update related packages sections [(#3890)](https://github.com/stdlib-js/stdlib/pull/3890) _(by stdlib-bot)_
 -   [`89e005a`](https://github.com/stdlib-js/stdlib/commit/89e005ad5004d32271fe7266e95eb96187c1946a) - **chore:** minor clean-up _(by Philipp Burckhardt)_
@@ -27,8 +28,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Aman Singh
 -   Philipp Burckhardt
 
 </section>
